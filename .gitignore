@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+/bin
+/build
+/classes
+/buildEar
+/reports
+/out
+/.idea/uiDesigner.xml
+*.iml
+build
+.gradle
+.idea
+atlassian-ide-plugin.xml
+.DS_Store
+node_modules
+.gradletasknamecache
+.project
+.settings
+.classpath
+
