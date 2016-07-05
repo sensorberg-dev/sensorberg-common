@@ -1,4 +1,4 @@
-package com.sensorberg.entity.backend;
+package com.sensorberg.entity.backendResolver;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 

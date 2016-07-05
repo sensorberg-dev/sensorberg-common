@@ -1,4 +1,4 @@
-package com.sensorberg.entity.backend;
+package com.sensorberg.entity.backendResolver;
 
 import java.util.ArrayList;
 import java.util.Date;
