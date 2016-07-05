@@ -1,1 +1,1 @@
-# LayoutApi
+# Share data structures between ResolverV2 and Backend
