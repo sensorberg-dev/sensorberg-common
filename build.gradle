@@ -2,6 +2,7 @@ group 'com.sensorberg'
 version '1.0'
 
 apply plugin: 'java'
+apply plugin: 'maven'
 
 repositories {
     mavenCentral()
@@ -12,9 +13,5 @@ dependencies {
     compile "org.projectlombok:lombok:1.16.6"
 
     // JSON annotation
-    //compile "com.fasterxml.jackson.core:jackson-annotations:2.7.5"
-
-    // https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-annotations
     compile group: 'com.fasterxml.jackson.core', name: 'jackson-annotations', version: '2.7.5'
-
 }
