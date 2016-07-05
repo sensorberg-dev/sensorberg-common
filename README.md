@@ -9,6 +9,12 @@ To install the library add:
  }
  
  dependencies {
-         compile 'com.github.jitpack:gradle-simple:1.0'
+         compile 'com.github.sensorberg-dev:sensorberg-common:1.3'
  }
 ```
+
+If changes are needed, you have to make a new tag after the commit and use this new tag in the target dependecy.
+
+For example, your new tag is 'newTag', then use
+
+	compile 'com.github.sensorberg-dev:sensorberg-common:newTag'
