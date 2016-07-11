@@ -1,6 +1,7 @@
 package com.sensorberg.entity.common;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 import java.util.Map;
 
@@ -17,7 +18,7 @@ public class BackendAction {
     private String companyId;
     private Integer delayTime;
     private Object deliverAfter;
-    private Object deliverAt;
+    private Date deliverAt;
     private String id;
     private Object name;
     private Map<String, Object> payload;
