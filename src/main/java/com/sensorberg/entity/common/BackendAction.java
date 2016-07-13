@@ -19,6 +19,7 @@ public class BackendAction {
     private Integer delayTime;
     private Object deliverAfter;
     private Date deliverAt;
+    private Boolean sendOnlyOnce;
     private String id;
     private Object name;
     private Map<String, Object> payload;
