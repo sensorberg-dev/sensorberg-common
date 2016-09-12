@@ -1,4 +1,4 @@
-package com.sensorberg.entity.common;
+package com.sensorberg.entity.common.common.backend;
 
 import java.util.Date;
 
