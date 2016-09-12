@@ -18,3 +18,7 @@ If changes are needed, you have to make a new tag after the commit and use this 
 For example, your new tag is 'newTag', then use
 
 	compile 'com.github.sensorberg-dev:sensorberg-common:newTag'
+	
+To check if the artefact is available,
+	
+	go to https://jitpack.io/com/github/watsonVon/LayoutApi/<currentTag>
