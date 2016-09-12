@@ -9,7 +9,7 @@ To install the library add:
  }
  
  dependencies {
-         compile 'com.github.sensorberg-dev:sensorberg-common:1.3'
+         compile 'com.github.sensorberg-dev:sensorberg-common:<currentTag>'
  }
 ```
 
