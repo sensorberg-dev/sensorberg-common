@@ -16,7 +16,7 @@ public class BackendAction {
     private Boolean active;
     private String apiKey;
     private String companyId;
-    private Integer delayTime;
+    private Integer deliverAfter;
     private Object deliverAfter;
     private Date deliverAt;
     private Boolean sendOnlyOnce;
