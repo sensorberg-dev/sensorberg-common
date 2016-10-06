@@ -16,12 +16,11 @@ public class BackendAction {
     private Boolean active;
     private String apiKey;
     private String companyId;
-    private Integer delayTime;
-    private Object deliverAfter;
+    private Integer deliverAfter;
     private Date deliverAt;
     private Boolean sendOnlyOnce;
     private String id;
-    private Object name;
+    private String name;
     private Map<String, Object> payload;
     private Integer suppressionTime;
     private List<BackendTimeframe> timeframes = new ArrayList<>();
